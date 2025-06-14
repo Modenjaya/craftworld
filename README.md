@@ -31,10 +31,10 @@ An automated bot for Craft World game that handles mining, factory operations, a
 4. **Add your tokens**
    Open `token.txt` and add your JWT tokens (one per line):
    ```
-   your_jwt_token_1
-   your_jwt_token_2
-   your_jwt_token_3
+   eyj......
+   
    ```
+1 line / accounts
 
 5. **Configure account IDs**
    Create `config.json` with your mine, factory, and area IDs:
